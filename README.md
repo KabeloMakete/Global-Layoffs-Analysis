@@ -33,7 +33,15 @@ The analysis is presented using Tableau Storytelling:
    - Layoffs by company stage
    - Layoff severity scatter analysis
    - Severity-based filtering
+
+ ## Dashboard Preview
  
+### Global layoffs Overview
+ ![Global Overview](Dashboard_Screenshots/Global_Layoffs_Overview.png)
+
+ ### Layoffs Severity & Company Analysis
+![Layoffs Severity Analysis](Dashboard_Screenshots/Layoffs_Severity_and_Company_Analysis.png)
+
 
 ## Business Insights and Key Findings 
 
@@ -62,7 +70,9 @@ standardizing categories, validating date and numeric formats before visualizati
 
 Kabelo Makete
 
-Bcom Financial Management Graduate | Aspiring Financial / Data Analyst
+Bcom Financial Management Graduate |
+
+Aspiring Financial / Data Analyst
 
 Linkedin: https://www.linkedin.com/in/kabelo-makete-68994b205/
 
